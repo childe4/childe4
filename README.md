@@ -1,16 +1,16 @@
 # Childe
 
-### Penetration Testing | DevSecOps | Bug Bounty
+### Penetration Testing | Cloud Security Engineering | Bug Bounty
 
-*Identify weaknesses. Engineer security. Build with purpose.*
+*Find vulnerabilities. Secure cloud infrastructure. Test systems.*
 
-I'm focused on offensive security, secure software development, and vulnerability research. I aim to understand how systems fail, automate security workflows, and integrate security throughout the software development lifecycle.
+I'm focused on penetration testing, cloud security, and vulnerability research. I aim to identify security weaknesses, understand cloud infrastructure risks, and help improve the security of applications and systems through practical testing and continuous learning.
 
 ## Areas of Focus
 
 - **Penetration Testing** — Web application security, vulnerability assessment, and security testing.
-- **DevSecOps** — Security automation, CI/CD security, and integrating security into development workflows.
-- **Bug Bounty** — Web vulnerability research, attack surface analysis, and responsible disclosure.
+- **Cloud Security Engineering** — Cloud infrastructure security, IAM, access control, security monitoring, and misconfiguration assessment.
+- **Bug Bounty** — Attack surface analysis, web vulnerability research, and responsible disclosure.
 
 ## Programming & Scripting
 
@@ -25,14 +25,14 @@ I'm focused on offensive security, secure software development, and vulnerabilit
 ## Current Learning
 
 - Web Application Penetration Testing
+- Cloud Security & Infrastructure Hardening
 - Bug Bounty Methodology
-- DevSecOps & CI/CD Security
 - Security Scripting and Automation
 
 ## GitHub Activity
 
-I use this space to document my learning journey, build security tools, automate repetitive tasks, and explore practical approaches to application security.
+I use this space to document my learning journey, develop security tools, automate repetitive tasks, and explore practical approaches to penetration testing, cloud security, and vulnerability research.
 
 ---
 
-*Security should be engineered, tested, and continuously improved.*
+*Identify weaknesses. Strengthen infrastructure. Improve security.*
