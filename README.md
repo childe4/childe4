@@ -1,16 +1,38 @@
-## Hi there 👋
+# Childe
 
-<!--
-**childe4/childe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Penetration Testing | DevSecOps | Bug Bounty
 
-Here are some ideas to get you started:
+*Identify weaknesses. Engineer security. Build with purpose.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on offensive security, secure software development, and vulnerability research. I aim to understand how systems fail, automate security workflows, and integrate security throughout the software development lifecycle.
+
+## Areas of Focus
+
+- **Penetration Testing** — Web application security, vulnerability assessment, and security testing.
+- **DevSecOps** — Security automation, CI/CD security, and integrating security into development workflows.
+- **Bug Bounty** — Web vulnerability research, attack surface analysis, and responsible disclosure.
+
+## Programming & Scripting
+
+- Python
+- Bash
+- JavaScript
+
+## Certifications
+
+- **Certified in Cybersecurity (CC)** — ISC2
+
+## Current Learning
+
+- Web Application Penetration Testing
+- Bug Bounty Methodology
+- DevSecOps & CI/CD Security
+- Security Scripting and Automation
+
+## GitHub Activity
+
+I use this space to document my learning journey, build security tools, automate repetitive tasks, and explore practical approaches to application security.
+
+---
+
+*Security should be engineered, tested, and continuously improved.*
